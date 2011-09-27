@@ -2,12 +2,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCelular.WebApp", "RedCelular\RedCelular.WebApp.csproj", "{8AEF56A6-4623-48DB-88F8-9D4395653C44}"
+	ProjectSection(ProjectDependencies) = postProject
+		{77DC234F-75CD-43DE-8CB4-BC5CE02E995A} = {77DC234F-75CD-43DE-8CB4-BC5CE02E995A}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCelular.Framework", "RedCelular.Framework\RedCelular.Framework.csproj", "{77DC234F-75CD-43DE-8CB4-BC5CE02E995A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCelular.SchemaGenerator", "RedCelular.SchemaGenerator\RedCelular.SchemaGenerator.csproj", "{F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCelular.Tests", "RedCelular.Tests\RedCelular.Tests.csproj", "{A7620D4B-2C5F-49A6-A37E-B4BB4EE55C15}"
+	ProjectSection(ProjectDependencies) = postProject
+		{77DC234F-75CD-43DE-8CB4-BC5CE02E995A} = {77DC234F-75CD-43DE-8CB4-BC5CE02E995A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

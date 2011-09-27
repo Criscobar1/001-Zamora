@@ -1,0 +1,93 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8AEF56A6-4623-48DB-88F8-9D4395653C44/f:Default.aspx" caret="752" fromTop="15" />
+      <File id="8AEF56A6-4623-48DB-88F8-9D4395653C44/f:RedCelularPageBase.cs" caret="481" fromTop="14" />
+      <File id="8AEF56A6-4623-48DB-88F8-9D4395653C44/f:Default.aspx.cs" caret="930" fromTop="24" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:ProductImage.cs" caret="623" fromTop="18" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="940" fromTop="27" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="419" fromTop="9" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:CatalogBase.cs" caret="1023" fromTop="21" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/f:RedCelularActiveRecordBase.cs" caret="1266" fromTop="20" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="694" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:CatalogBase.cs" caret="999" fromTop="20" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="980" fromTop="12" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="570" fromTop="7" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="628" fromTop="10" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="762" fromTop="21" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="427" fromTop="9" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="0" fromTop="0" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="772" fromTop="22" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="1001" fromTop="31" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="1150" fromTop="31" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:ProductImage.cs" caret="0" fromTop="0" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:ProductImage.cs" caret="517" fromTop="10" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:ProductImage.cs" caret="438" fromTop="11" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Brand.cs" caret="940" fromTop="27" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/d:Catalogs/f:Product.cs" caret="419" fromTop="9" />
+      <File id="77DC234F-75CD-43DE-8CB4-BC5CE02E995A/f:RedCelularActiveRecordBase.cs" caret="1035" fromTop="24" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="620" fromTop="16" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="897" fromTop="23" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="1749" fromTop="33" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="1589" fromTop="26" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="1946" fromTop="21" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="2783" fromTop="20" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="2534" fromTop="13" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="3398" fromTop="32" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="3398" fromTop="35" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="3398" fromTop="10" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="3398" fromTop="39" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="10172" fromTop="80" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="6394" fromTop="15" />
+      <File id="F6B05635-0ABE-4AB0-80D9-D24BB6A6EE7E/f:Program.cs" caret="4922" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="10" />
+      <Item value="abstract" priority="3" />
+      <Item value="RedCelularPageBase`0" priority="0" />
+      <Item value="RedCelularActiveRecordBase" priority="8" />
+      <Item value="where" priority="0" />
+      <Item value="CatalogBase" priority="3" />
+      <Item value="string" priority="2" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="using" priority="4" />
+      <Item value="Castle" priority="4" />
+      <Item value="ActiveRecord" priority="4" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="Brand`0" priority="0" />
+      <Item value="ActiveRecordAttribute`0" priority="2" />
+      <Item value="PropertyAttribute`0" priority="2" />
+      <Item value="Product`0" priority="1" />
+      <Item value="IList" priority="0" />
+      <Item value="HasManyAttribute`0" priority="0" />
+      <Item value="ProductImage`0" priority="1" />
+      <Item value="RedCelular" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
